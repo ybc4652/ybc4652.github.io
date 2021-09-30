@@ -4,9 +4,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: '前端驿站',
-  tagline: '个人作品展示',
-  url: 'https://ybc4652.github.io/',
+  title: '前端小馆',
+  tagline: '没事来小馆小酌一杯～',
+  url: 'https://ybc4652.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -22,7 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/ybc4652/website/tree/main',
+          editUrl: 'https://github.com/ybc4652/ybc4652.github.io/blob/main',
         },
         blog: {
           showReadingTime: true,
