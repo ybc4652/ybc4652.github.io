@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6781],{4827:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/center-os-8","name":"CenterOS8","count":1,"permalink":"/blog/tags/center-os-8"}')}}]);

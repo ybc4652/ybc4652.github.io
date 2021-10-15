@@ -4,9 +4,22 @@
         <title>前端驿站 Blog</title>
         <link>https://ybc4652.github.io/blog</link>
         <description>前端驿站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 10:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CenterOS8安装Mysql8]]></title>
+            <link>https://ybc4652.github.io/blog/long-blog-post</link>
+            <guid>long-blog-post</guid>
+            <pubDate>Fri, 15 Oct 2021 10:02:52 GMT</pubDate>
+            <description><![CDATA[1. 安装]]></description>
+        </item>
+        <item>
+            <title><![CDATA[客户端连接MySQl8失败的解决方案]]></title>
+            <link>https://ybc4652.github.io/blog/客户端连接MySQl8失败的解决方案</link>
+            <guid>客户端连接MySQl8失败的解决方案</guid>
+            <pubDate>Fri, 15 Oct 2021 10:02:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://ybc4652.github.io/blog/welcome</link>
@@ -26,7 +39,7 @@
             <link>https://ybc4652.github.io/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
+            <description><![CDATA[这些都将作为博文摘要。]]></description>
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>

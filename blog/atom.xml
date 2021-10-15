@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybc4652.github.io/blog</id>
     <title>前端驿站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-10-15T10:02:52.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ybc4652.github.io/blog"/>
     <subtitle>前端驿站 Blog</subtitle>
     <icon>https://ybc4652.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CenterOS8安装Mysql8]]></title>
+        <id>long-blog-post</id>
+        <link href="https://ybc4652.github.io/blog/long-blog-post"/>
+        <updated>2021-10-15T10:02:52.121Z</updated>
+        <summary type="html"><![CDATA[1. 安装]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[客户端连接MySQl8失败的解决方案]]></title>
+        <id>客户端连接MySQl8失败的解决方案</id>
+        <link href="https://ybc4652.github.io/blog/客户端连接MySQl8失败的解决方案"/>
+        <updated>2021-10-15T10:02:52.121Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
@@ -38,11 +51,7 @@
         <id>long-blog-post</id>
         <link href="https://ybc4652.github.io/blog/long-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
-        </author>
+        <summary type="html"><![CDATA[这些都将作为博文摘要。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
