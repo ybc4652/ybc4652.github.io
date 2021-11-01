@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybc4652.github.io/blog</id>
     <title>前端驿站 Blog</title>
-    <updated>2021-10-15T10:02:52.121Z</updated>
+    <updated>2021-11-01T09:55:24.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ybc4652.github.io/blog"/>
     <subtitle>前端驿站 Blog</subtitle>
@@ -11,14 +11,14 @@
         <title type="html"><![CDATA[CenterOS8安装Mysql8]]></title>
         <id>long-blog-post</id>
         <link href="https://ybc4652.github.io/blog/long-blog-post"/>
-        <updated>2021-10-15T10:02:52.121Z</updated>
+        <updated>2021-11-01T09:55:24.375Z</updated>
         <summary type="html"><![CDATA[1. 安装]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[客户端连接MySQl8失败的解决方案]]></title>
         <id>客户端连接MySQl8失败的解决方案</id>
         <link href="https://ybc4652.github.io/blog/客户端连接MySQl8失败的解决方案"/>
-        <updated>2021-10-15T10:02:52.121Z</updated>
+        <updated>2021-11-01T09:55:24.375Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
