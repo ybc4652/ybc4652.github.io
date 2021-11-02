@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4978],{9333:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/ant-design-pro","name":"ant-design-pro","count":2,"permalink":"/blog/tags/ant-design-pro"}')}}]);

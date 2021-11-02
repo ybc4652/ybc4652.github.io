@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ybc4652.github.io/blog</id>
     <title>前端驿站 Blog</title>
-    <updated>2021-11-01T09:55:24.375Z</updated>
+    <updated>2021-11-02T10:37:19.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ybc4652.github.io/blog"/>
     <subtitle>前端驿站 Blog</subtitle>
@@ -11,57 +11,21 @@
         <title type="html"><![CDATA[CenterOS8安装Mysql8]]></title>
         <id>long-blog-post</id>
         <link href="https://ybc4652.github.io/blog/long-blog-post"/>
-        <updated>2021-11-01T09:55:24.375Z</updated>
+        <updated>2021-11-02T10:37:19.178Z</updated>
         <summary type="html"><![CDATA[1. 安装]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[客户端连接MySQl8失败的解决方案]]></title>
-        <id>客户端连接MySQl8失败的解决方案</id>
-        <link href="https://ybc4652.github.io/blog/客户端连接MySQl8失败的解决方案"/>
-        <updated>2021-11-01T09:55:24.375Z</updated>
+        <title type="html"><![CDATA[React学习第一章：Ant Design Pro]]></title>
+        <id>react-1</id>
+        <link href="https://ybc4652.github.io/blog/react-1"/>
+        <updated>2021-11-02T10:37:19.178Z</updated>
+        <summary type="html"><![CDATA[我个人喜欢从实战入手框架，在对react文档功能有了基本的了解以后，使用ant-design-pro直接上手熟悉react的功能。]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://ybc4652.github.io/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>mdx-blog-post</id>
-        <link href="https://ybc4652.github.io/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>long-blog-post</id>
-        <link href="https://ybc4652.github.io/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[这些都将作为博文摘要。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>first-blog-post</id>
-        <link href="https://ybc4652.github.io/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
-        </author>
+        <title type="html"><![CDATA[React学习第二章：UmiJS]]></title>
+        <id>react-2</id>
+        <link href="https://ybc4652.github.io/blog/react-2"/>
+        <updated>2021-11-02T10:37:19.178Z</updated>
+        <summary type="html"><![CDATA[上一章对Ant Design Pro进行删减，本章则深入了解Ant Design Pro用了哪些东西，都是做什么用的。]]></summary>
     </entry>
 </feed>

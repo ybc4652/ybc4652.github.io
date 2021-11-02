@@ -4,49 +4,29 @@
         <title>前端驿站 Blog</title>
         <link>https://ybc4652.github.io/blog</link>
         <description>前端驿站 Blog</description>
-        <lastBuildDate>Mon, 01 Nov 2021 09:55:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 10:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[CenterOS8安装Mysql8]]></title>
             <link>https://ybc4652.github.io/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
-            <pubDate>Mon, 01 Nov 2021 09:55:24 GMT</pubDate>
+            <pubDate>Tue, 02 Nov 2021 10:37:19 GMT</pubDate>
             <description><![CDATA[1. 安装]]></description>
         </item>
         <item>
-            <title><![CDATA[客户端连接MySQl8失败的解决方案]]></title>
-            <link>https://ybc4652.github.io/blog/客户端连接MySQl8失败的解决方案</link>
-            <guid>客户端连接MySQl8失败的解决方案</guid>
-            <pubDate>Mon, 01 Nov 2021 09:55:24 GMT</pubDate>
+            <title><![CDATA[React学习第一章：Ant Design Pro]]></title>
+            <link>https://ybc4652.github.io/blog/react-1</link>
+            <guid>react-1</guid>
+            <pubDate>Tue, 02 Nov 2021 10:37:19 GMT</pubDate>
+            <description><![CDATA[我个人喜欢从实战入手框架，在对react文档功能有了基本的了解以后，使用ant-design-pro直接上手熟悉react的功能。]]></description>
         </item>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://ybc4652.github.io/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://ybc4652.github.io/blog/mdx-blog-post</link>
-            <guid>mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://ybc4652.github.io/blog/long-blog-post</link>
-            <guid>long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[这些都将作为博文摘要。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://ybc4652.github.io/blog/first-blog-post</link>
-            <guid>first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <title><![CDATA[React学习第二章：UmiJS]]></title>
+            <link>https://ybc4652.github.io/blog/react-2</link>
+            <guid>react-2</guid>
+            <pubDate>Tue, 02 Nov 2021 10:37:19 GMT</pubDate>
+            <description><![CDATA[上一章对Ant Design Pro进行删减，本章则深入了解Ant Design Pro用了哪些东西，都是做什么用的。]]></description>
         </item>
     </channel>
 </rss>
